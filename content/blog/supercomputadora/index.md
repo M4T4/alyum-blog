@@ -1,7 +1,7 @@
 ---
 title: Una supercomputadora recrea una de las imágenes más famosas de la Tierra
 date: "2015-05-28T22:40:32.169Z"
-description: Contar hormigas es como contar granos de arena en la playa, pero seis investigadores se han dado a la tarea.
+description: Hoy hace cincuenta años, los astronautas del Apolo 17, la última misión tripulada de la NASA a la Luna, tomaron una fotografía icónica de nuestro planeta.
 ---
 
 Hoy hace cincuenta años, los astronautas del Apolo 17, la última misión tripulada de la
