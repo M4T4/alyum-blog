@@ -1,7 +1,7 @@
 ---
-title: Una supercomputadora recrea una de las imágenes más famosas de la Tierra
+title: Los superconductores ayudan a los ordenadores a "recordar".
 date: "2015-05-28T22:40:32.169Z"
-description: Hoy hace cincuenta años, los astronautas del Apolo 17, la última misión tripulada de la NASA a la Luna, tomaron una fotografía icónica de nuestro planeta.
+description: Los investigadores de UC San Diego y UC Riverside hallaron cómo usar bucles superconductores desordenados para almacenar y transmitir información, imitando la memoria humana. Esta tecnología podría mejorar la computación neuromórfica.
 ---
 
 Un equipo de investigadores de la Universidad de California en San Diego y la Universidad de California en Riverside han descubierto una nueva manera de almacenar y transmitir información utilizando bucles superconductores desordenados. Estos bucles superconductores tienen la capacidad de demostrar memoria asociativa, similar a la memoria humana. Se espera que esta nueva tecnología mejore la computación neuromórfica, que se basa en una arquitectura similar al cerebro humano.
