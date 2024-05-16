@@ -1,0 +1,16 @@
+---
+title: LIGO detecta un candidato a agujero negro inusualmente ligero 
+date: "2015-05-28T22:40:32.169Z"
+description: Detectada en mayo de 2023, GW230529, señal de ondas gravitacionales, desafía comprensión científica sobre agujeros negros.
+---
+
+En mayo de 2023, el Observatorio de Ondas Gravitacionales por Interferómetro Láser (LIGO) detectó una señal de ondas gravitacionales que proviene de la colisión de un objeto, posiblemente una estrella de neutrones, con un agujero negro. Esta señal, conocida como GW230529, ha desconcertado a los científicos debido a que la masa del agujero negro candidato se encuentra en un rango inusual, en lo que se conoce como el "hueco de masa" entre las estrellas de neutrones más pesadas y los agujeros negros más ligeros. Aunque la señal en sí no puede revelar la verdadera naturaleza de este objeto, las futuras detecciones de eventos similares, especialmente aquellos acompañados de estallidos de luz, podrían ser clave para comprender la masa mínima de los agujeros negros.
+
+Jenne Driggers, científico principal de detección en LIGO Hanford en Washington, destaca la increíble capacidad científica de la red de detectores de ondas gravitacionales. La última detección demuestra que la red es mucho más sensible que en la tercera observación. LIGO hizo historia en 2015 al lograr la primera detección directa de ondas gravitacionales en el espacio. Desde entonces, LIGO y su detector asociado en Europa, Virgo, han identificado alrededor de 100 fusiones entre agujeros negros, así como una cantidad similar de fusiones entre agujeros negros y estrellas de neutrones.
+
+Este descubrimiento representa un avance significativo en nuestro conocimiento de los agujeros negros y las estrellas de neutrones. La detección de ondas gravitacionales proporciona una nueva forma de estudiar el universo y entender la física de los objetos cósmicos más extremos. La masa del agujero negro candidato en GW230529 se encuentra en un rango inusual, lo que plantea preguntas sobre cómo se forman y evolucionan estos objetos en el universo. La posibilidad de detectar sucesos similares acompañados de estallidos de luz nos brinda la oportunidad de explorar más a fondo este misterio.
+
+En resumen, LIGO ha detectado una señal de ondas gravitacionales proveniente de la colisión de un objeto con un supuesto agujero negro. Esta señal, llamada GW230529, ha desconcertado a los científicos debido a la masa inusual del agujero negro candidato. Aunque no se puede determinar la verdadera naturaleza del objeto en base a esta señal, futuras detecciones de eventos similares, especialmente aquellos acompañados de emisiones de luz, podrían ser clave para responder preguntas sobre los agujeros negros y las estrellas de neutrones. Este hallazgo demuestra la notable capacidad científica de la red de detectores de ondas gravitacionales, liderada por LIGO. Desde su primera detección en 2015, LIGO y su colaborador Virgo han logrado identificar numerosas fusiones entre agujeros negros y entre agujeros negros y estrellas de neutrones, contribuyendo así a nuestro conocimiento del universo y la física cósmica.
+
+Puedes leer el resto del articulo en
+https://www.ligo.caltech.edu/news/ligo20240405
