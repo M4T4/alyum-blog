@@ -13,3 +13,7 @@ La topología de un objeto describe cómo está conectado y cuántos agujeros ti
 El cosmólogo Dragan Huterer, de la Universidad de Michigan, encuentra fascinante la posibilidad de que el universo pueda tener topologías no triviales y destaca el hecho de que se pueda medir. Según los investigadores, si el universo tuviera una topología no trivial, sería similar a Pac-Man, el icónico juego de arcade. En el juego, si el personaje se desplaza hasta el borde derecho de la pantalla, aparece en el borde izquierdo, como si estuviera conectado en un bucle.
 
 Aunque esta idea de un universo con topología no trivial es intrigante, todavía no hay evidencia empírica que respalde esta teoría. Los científicos continúan investigando y explorando diferentes posibilidades para comprender mejor la estructura y la topología del universo.
+
+
+Para más información, pueden leer el artículo de TechExplore en
+https://www.sciencenews.org/article/universe-geometry-doughnut-physics
