@@ -13,3 +13,6 @@ Esta demostración representa un importante avance en la construcción de una In
 Los investigadores de Harvard también señalan que este es solo el comienzo de la investigación en este campo. A medida que la tecnología mejore y se superen más desafíos técnicos, se espera que la Internet cuántica se convierta en una realidad tangible en el futuro. Esto abrirá nuevas puertas en términos de seguridad informática, comunicaciones y computación cuántica.
 
 En resumen, los físicos de Harvard han demostrado la posibilidad de establecer una red de Internet cuántica utilizando fibra óptica existente y nodos de memoria cuántica entrelazados. Esta demostración es un paso importante hacia la construcción de una Internet cuántica a gran escala y demuestra la viabilidad de utilizar la infraestructura de telecomunicaciones actual para la implementación de la informática cuántica. Aunque todavía hay desafíos técnicos por superar, este avance prometedor abre nuevas posibilidades en términos de seguridad informática y computación cuántica en el futuro.
+
+Para más información, pueden leer el articulo de Phys.org
+https://phys.org/news/2024-05-physicists-metro-area-quantum-network.html
