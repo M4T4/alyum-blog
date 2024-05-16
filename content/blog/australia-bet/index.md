@@ -15,3 +15,6 @@ Australia cuenta con fortalezas en teoría cuántica y fotónica, y dos de los f
 Un ordenador cuántico funcional podría resolver problemas que superan la capacidad de cualquier superordenador convencional. Por lo tanto, invertir en esta tecnología representa una oportunidad para alcanzar avances significativos y liderar la industria. Si bien existen riesgos, Australia considera que los beneficios y el potencial son suficientemente altos como para justificar esta inversión.
 
 En resumen, Australia ha decidido invertir un gran monto de dinero en la empresa PsiQuantum, con el objetivo de desarrollar y construir un ordenador cuántico funcional. Este enfoque utiliza fotones como bits cuánticos y aprovecha las fortalezas de Australia en teoría cuántica y fotónica. Aunque esta inversión representa un riesgo, las autoridades australianas consideran que es una apuesta que vale la pena, ya que permitirá a Australia liderar la carrera mundial en la construcción de un ordenador cuántico útil.
+
+Para más información, pueden leer el articulo de Science en:
+https://www.science.org/content/article/australia-bets-big-on-dark-horse-quantum-computing-technology
